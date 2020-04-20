@@ -1,9 +1,8 @@
 
-let arr = [
+console.log(arr);
+var arr = [
     "Ruslan",
     "David",
     "Mirana",
     5
 ];
-
-console.log(arr);
